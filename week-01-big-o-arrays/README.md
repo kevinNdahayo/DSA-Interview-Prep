@@ -16,7 +16,7 @@
 - Udemy Course
 - CTCI + Python Repo
 - LeetCode
-- Extra Resources
+- Extra Resources: [NeetCode 150 Playlist](https://youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr&si=hJJhG-GhFqdHaGU7)
 
 ---
 
