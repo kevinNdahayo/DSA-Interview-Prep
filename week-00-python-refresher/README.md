@@ -1,6 +1,6 @@
 # 🐍 Week 00 — Python Refresher
 
-> **Phase 0: Python Refresher**  
+> **Phase 0: Python Refresher**
 > 📅 May 04 – May 10, 2026
 
 ---
@@ -47,9 +47,7 @@
 
 - [ ] Rest. Skim Python docs for any gaps. Prepare mentally for DSA Week 1.
 
-
 ---
-
 
 ---
 
@@ -60,9 +58,9 @@
 ```
 Week 00 Notes:
 
-- 
-- 
-- 
+-
+-
+-
 ```
 
 ---
